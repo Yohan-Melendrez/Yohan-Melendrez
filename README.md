@@ -30,6 +30,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yohan-melendrez&show_icons=true&theme=tokyonight" alt="yohan-melendrez" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yohan-melendrez&theme=tokyonight" alt="yohan-melendrez" />
-</p>
