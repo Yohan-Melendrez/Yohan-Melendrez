@@ -7,11 +7,9 @@
 
 ### 🚀 Software Engineer | Full Stack Developer
 
-I am a Software Engineer focused on building scalable modern architectures and solving complex problems through technology.
+I am a Software Engineer dedicated to crafting scalable digital solutions that bridge the gap between complex problems and user-friendly experiences. My professional journey is rooted in a collaborative mindset, shaped by hands-on experience in high-impact environments like the Subsecretaría de Gobierno Digital During my time there, I contributed to large-scale digitalization efforts within a multidisciplinary team of developers, honing my ability to deliver robust software under modern development standards and agile methodologies.
 
-- 🏢 **Professional Experience:** Former Frontend Developer at the **Subsecretaría de Gobierno Digital**, where I worked on the digitalization of government systems.
-- 🛠️ **Technical Focus:** Specialized in building robust backend systems with **NestJS**, **Spring Boot**, and **.NET**.
-- 🌎 **Location:** Ciudad Obregón, Sonora, México.
+With a solid academic foundation from ITSON, I have focused on mastering the art of building systems from the ground up, always prioritizing architectural integrity and clean code. I thrive in team-oriented environments where collective problem-solving and innovation are at the core of every project. I am driven by the challenge of creating purposeful technology that simplifies lives and empowers organizations to grow.
 
 ---
 
