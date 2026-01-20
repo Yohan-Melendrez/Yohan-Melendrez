@@ -1,52 +1,50 @@
-<h1 align="center">Hi 👋, I'm Yohan Gabriel</h1>
-<h3 align="center">A passionate developer from Mexico</h3>
+# Hi there! I'm Yohan Gabriel 👋
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yohan-melendrez&theme=tokyonight&margin-w=15&margin-h=15" alt="yohan-melendrez" />
-  </a>
+### 🚀 Software Engineering Student @ ITSON | Full Stack Developer
+
+[cite_start]I am a Software Engineering student in my 8th semester at **Instituto Tecnológico de Sonora (ITSON)**[cite: 7, 26]. [cite_start]I specialize in building scalable modern architectures and solving complex problems through technology[cite: 9].
+
+- [cite_start]🏢 **Experience:** Former Frontend Developer at the **Subsecretaría de Gobierno Digital**, where I worked on digitalizing government systems[cite: 11, 12, 14].
+- [cite_start]🛠️ **Current Focus:** Deepening my knowledge in **NestJS**, **Angular**, and **Spring Boot**[cite: 23, 24, 29].
+- [cite_start]🌎 **Location:** Ciudad Obregón, Sonora, México[cite: 4].
+
+---
+
+### 💻 Technical Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | [cite_start]Java, TypeScript, JavaScript, HTML5, CSS3 [cite: 28] |
+| **Backend** | [cite_start]Node.js (NestJS), Spring Boot, .NET (Entity Framework) [cite: 29] |
+| **Frontend** | [cite_start]Angular, Tailwind CSS, React [cite: 24, 29] |
+| **Databases** | [cite_start]PostgreSQL, MySQL, MongoDB, Prisma ORM [cite: 23, 30] |
+| **Tools** | [cite_start]Docker, Git, Postman, pnpm, Scrum [cite: 8, 30] |
+
+---
+
+### 🌟 Featured Projects
+
+#### 🛒 [Itson Market](LINK_A_TU_REPO)
+A student commerce platform built with a decoupled architecture.
+- [cite_start]**Stack:** Node.js, Custom Middlewares, Validators[cite: 19, 20].
+- [cite_start]**Key Feature:** Scalable architecture based on Controllers, Models, and Services[cite: 19].
+
+#### 🎟️ [Rifando-ando](LINK_A_TU_REPO)
+A comprehensive raffle management system with role-based access control.
+- [cite_start]**Stack:** NestJS, Prisma ORM, PostgreSQL, Angular, Tailwind CSS[cite: 23, 24].
+- [cite_start]**Key Feature:** High-performance database queries and modern responsive UI[cite: 23, 24].
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yohan-Melendrez&show_icons=true&theme=tokyonight" alt="Yohan's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yohan-Melendrez&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-### 🌱 Currently Learning
-
--   **Angular, React**
-
----
-
-### 🛠️ Technologies & Tools
-
-#### Databases
-<p>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-</p>
-
-#### Languages
-<p>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="httpsf="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-</p>
-
-#### Tools & Platforms
-<p>
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-</p>
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yohan-melendrez&show_icons=true&theme=tokyonight&hide_border=true" alt="yohan-melendrez" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohan-melendrez&layout=compact&theme=tokyonight&hide_border=true" alt="yohan-melendrez" />
-</p>
+### 📫 Let's Connect!
+- **LinkedIn:** [linkedin.com/in/tu-perfil](TU_LINK_LINKEDIN)
+- [cite_start]**Email:** yohan.melendrez24@gmail.com [cite: 5]
