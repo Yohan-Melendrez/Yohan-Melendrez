@@ -31,6 +31,3 @@ I am a Software Engineer focused on building scalable modern architectures and s
 
 ---
 
-### 📫 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/yohan-melendre](https://www.linkedin.com/in/yohan-melendre)
-- **Email:** yohan.melendrez24@gmail.com
